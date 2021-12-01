@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.b7e4b0b5.chunk.css",
+    "main.js": "/weather-app/static/js/main.84e952ac.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.84e952ac.chunk.js.map",
+    "runtime-main.js": "/weather-app/static/js/runtime-main.571e7871.js",
+    "runtime-main.js.map": "/weather-app/static/js/runtime-main.571e7871.js.map",
+    "static/css/2.d3ee4325.chunk.css": "/weather-app/static/css/2.d3ee4325.chunk.css",
+    "static/js/2.b2f1db2b.chunk.js": "/weather-app/static/js/2.b2f1db2b.chunk.js",
+    "static/js/2.b2f1db2b.chunk.js.map": "/weather-app/static/js/2.b2f1db2b.chunk.js.map",
+    "static/js/3.678e19fa.chunk.js": "/weather-app/static/js/3.678e19fa.chunk.js",
+    "static/js/3.678e19fa.chunk.js.map": "/weather-app/static/js/3.678e19fa.chunk.js.map",
+    "index.html": "/weather-app/index.html",
+    "static/css/2.d3ee4325.chunk.css.map": "/weather-app/static/css/2.d3ee4325.chunk.css.map",
+    "static/css/main.b7e4b0b5.chunk.css.map": "/weather-app/static/css/main.b7e4b0b5.chunk.css.map",
+    "static/js/2.b2f1db2b.chunk.js.LICENSE.txt": "/weather-app/static/js/2.b2f1db2b.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/weather-app/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/fall.c4f8fe43.jpg": "/weather-app/static/media/fall.c4f8fe43.jpg",
+    "static/media/spring.f08f1d4e.jpg": "/weather-app/static/media/spring.f08f1d4e.jpg",
+    "static/media/summer.c061a9cc.jpg": "/weather-app/static/media/summer.c061a9cc.jpg",
+    "static/media/winter.7d455e99.jpg": "/weather-app/static/media/winter.7d455e99.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.571e7871.js",
+    "static/css/2.d3ee4325.chunk.css",
+    "static/js/2.b2f1db2b.chunk.js",
+    "static/css/main.b7e4b0b5.chunk.css",
+    "static/js/main.84e952ac.chunk.js"
+  ]
+}
