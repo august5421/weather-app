@@ -20,7 +20,7 @@ function WeatherContainer() {
             setLat(position.coords.latitude);
             setLong(position.coords.longitude);
           });
-          axios.get(`http://api.weatherapi.com/v1/current.json?key=234235b845d047f0b96212620211811&q=${lat},${long}`)
+          axios.get(`https://api.weatherapi.com/v1/current.json?key=234235b845d047f0b96212620211811&q=${lat},${long}`)
           .then(data => {
             console.log(data.data);
             setTemprature(data.data.current.temp_f);
